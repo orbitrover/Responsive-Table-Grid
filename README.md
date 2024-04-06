@@ -1,0 +1,1 @@
+I have create a Generic javascript file(havind dependecy on Jquery also) that can create any html table responsive for mobile screen without using any extra efforts just add tableResponsive.js after Jquery script or end of all script tags. and its working.
