@@ -20,3 +20,4 @@ H:\GitUpload\ResponsiveTableGrid\ASPNET_APP\Core.Repo\obj\Debug\net8.0\Core.Repo
 H:\GitUpload\ResponsiveTableGrid\ASPNET_APP\Core.Repo\obj\Debug\net8.0\refint\Core.Repo.dll
 H:\GitUpload\ResponsiveTableGrid\ASPNET_APP\Core.Repo\obj\Debug\net8.0\Core.Repo.pdb
 H:\GitUpload\ResponsiveTableGrid\ASPNET_APP\Core.Repo\obj\Debug\net8.0\ref\Core.Repo.dll
+H:\GitUpload\ResponsiveTableGrid\ASPNET_APP\Core.Repo\obj\Debug\net8.0\Core.Repo.sourcelink.json

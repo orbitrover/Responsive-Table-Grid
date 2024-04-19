@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "225L1jWqWUxROWIzAKl0Ej5DzDshsh6Vlf5nS8NzGuI=",
+  "Hash": "9fBAv8J2JuOaD4rD47qh6TDq20OzOJm6erqvG8uWlfQ=",
   "Source": "Core.UI.ConvertTableGridIntoDataSetScroll",
   "BasePath": "_content/Core.UI.ConvertTableGridIntoDataSetScroll",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "H:\\GitUpload\\ResponsiveTableGrid\\ASPNET_APP\\Core.UI.ConvertTableGridIntoDataSetScroll\\wwwroot\\js\\ResponsiveTableJavaScript.js",
+      "SourceId": "Core.UI.ConvertTableGridIntoDataSetScroll",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\GitUpload\\ResponsiveTableGrid\\ASPNET_APP\\Core.UI.ConvertTableGridIntoDataSetScroll\\wwwroot\\",
+      "BasePath": "_content/Core.UI.ConvertTableGridIntoDataSetScroll",
+      "RelativePath": "js/ResponsiveTableJavaScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ResponsiveTableJavaScript.js"
     },
     {
       "Identity": "H:\\GitUpload\\ResponsiveTableGrid\\ASPNET_APP\\Core.UI.ConvertTableGridIntoDataSetScroll\\wwwroot\\js\\site.js",

@@ -15,4 +15,8 @@
     <ProjectReference Include="..\Core.Services\Core.Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Forms\" />
+  </ItemGroup>
+
 </Project>

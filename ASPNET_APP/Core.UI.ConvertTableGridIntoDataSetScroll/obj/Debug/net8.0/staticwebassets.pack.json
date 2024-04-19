@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "H:\\GitUpload\\ResponsiveTableGrid\\ASPNET_APP\\Core.UI.ConvertTableGridIntoDataSetScroll\\wwwroot\\js\\ResponsiveTableJavaScript.js",
+      "PackagePath": "staticwebassets\\js\\ResponsiveTableJavaScript.js"
+    },
+    {
       "Id": "H:\\GitUpload\\ResponsiveTableGrid\\ASPNET_APP\\Core.UI.ConvertTableGridIntoDataSetScroll\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

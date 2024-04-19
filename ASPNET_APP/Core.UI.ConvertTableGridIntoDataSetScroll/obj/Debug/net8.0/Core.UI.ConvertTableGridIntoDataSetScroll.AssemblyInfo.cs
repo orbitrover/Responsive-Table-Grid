@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Core.UI.ConvertTableGridIntoDataSetScroll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a69e20e41beedaa5130ed367a0816cad7e96051f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.UI.ConvertTableGridIntoDataSetScroll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.UI.ConvertTableGridIntoDataSetScroll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

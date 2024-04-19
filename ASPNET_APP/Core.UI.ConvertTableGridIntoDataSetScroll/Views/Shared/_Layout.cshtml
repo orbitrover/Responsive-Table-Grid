@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Core.UI.ConvertTableGridIntoDataSetScroll.styles.css" asp-append-version="true" />
     @* <link href="~/css/tableresponsive.css" rel="stylesheet" /> *@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
 </head>
 <body>
     <header>
@@ -35,7 +38,7 @@
             </div>
         </nav>
     </header>
-    <div class="container" id="no-more-tables">
+    <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
@@ -46,10 +49,8 @@
             &copy; 2024 - Responsive Table Grid - <a href="#">Orbit Rover</a>
         </div>
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    <script src="~/js/tableresponsive.js"></script>
+    
+    <script src="~/js/responsivetablejavascript.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
