@@ -1,4 +1,4 @@
-I have create a Generic javascript file(havind dependecy on Jquery also) that can create any html table responsive for mobile screen without using any extra efforts.
+I have create a Generic javascript file(having dependecy on Jquery) that can create any html table responsive for mobile screen without using any extra efforts.
 just add tableResponsive.js after Jquery script or end of all script tags. 
 ![image](https://github.com/orbitrover/ResponsiveTableGrid/assets/8413437/38c2ea74-367f-4d27-b8c8-b40f620868f3)
 
